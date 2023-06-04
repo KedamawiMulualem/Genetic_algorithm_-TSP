@@ -35,6 +35,18 @@ Define the main loop to handle mouse clicks for city placements and initiate the
 - This function applies mutation to a given route by randomly swapping two cities in the route.
 ### 7. Update_screen(screen, route, generation, best_fitness): 
 - This function updates the Pygame window with the current state of the genetic algorithm, including the best route and its fitness.
+
+## Input window
+![Input window](Screenshot1.png)
+
+## Inputing coordinates by clicking on the window
+![Inputing sample city coordinates](Screenshot2.png)
+
+## Generation 103 with a total distance of 12611.07 
+![Initial Generations result](Screenshot3.png)
+
+## Generation 4804 with a total distance of 11621.40 (Improvment)
+![Generation result](Screenshot4.png)
 ### 8. Draw_box_and_points(screen, points): 
 - This function draws the box and points on the Pygame window.
 
