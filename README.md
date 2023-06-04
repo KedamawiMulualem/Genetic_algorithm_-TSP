@@ -1,4 +1,4 @@
-# Traveling Salesman Problem (TSP) with Genetic Algorithm and Pygame
+#  Genetic Algorithm approched solution for Traveling Salesman Problem  (TSP)
 
 This project is an implementation of the Genetic Algorithm to solve the Traveling Salesman Problem (TSP) and uses Pygame for visualization.
 
